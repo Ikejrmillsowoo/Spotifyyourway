@@ -1,4 +1,4 @@
-const clientId = "d0ee03b4507f429f92f0763c703e7b54";
+const clientId = "";
 let redirectURI = "https://spotifyyourway.netlify.app/";
 
 let accessToken;
